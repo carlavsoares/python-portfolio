@@ -10,9 +10,9 @@ Coleção de projetos organizados por nível — do básico ao avançado — cob
 ---
 
 ### 🔹 Básico (Em construção)
-1. Calculadora CLI — [git clone https://github.com/carlavsoares/calculadora-python](#)
+1. Calculadora CLI — [https://github.com/carlavsoares/calculadora-python](#)
 2. Jogo da Forca — [https://github.com/carlavsoares/jogo-da-forca.git](#)
-3. Conversor de Moedas — [git clone https://github.com/carlavsoares/conversor-de-moedas](#)
+3. Conversor de Moedas — [https://github.com/carlavsoares/conversor-de-moedas](#)
 4. Gerador de Senhas — [link](#)
 5. Agenda de Contatos — [link](#)
 6. Relógio Digital — [link](#)
